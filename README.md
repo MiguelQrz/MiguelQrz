@@ -40,7 +40,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" alt="nodeJS" width="70" height="70"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/960px-Postgresql_elephant.svg.png?" alt="postgres" width="50"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1920px-Figma-logo.svg.png" alt="figma" width="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Twilio-logo-red.svg/3840px-Twilio-logo-red.svg.png" alt="twilio" width="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Twilio-logo-red.svg/3840px-Twilio-logo-red.svg.png" alt="twilio" width="80"/>
   
 </p>
 
