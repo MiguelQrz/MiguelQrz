@@ -5,7 +5,7 @@
     "location": "Belo Horizonte, MG",
   },
   "education": [
-    "Self-Taught advanced english",
+    "Self-Taught fluent english",
     "Self-Taught Python & Dart",
     "Studying Bachelor of Computer Science (5/8)"
 ],
