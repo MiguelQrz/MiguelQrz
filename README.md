@@ -45,6 +45,6 @@
 <img src="https://www.svgrepo.com/show/354472/twilio-icon.svg" alt="twilio" width="50"/>
 </p>
 <img src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyYWd0ZndrcmgzbmlrOWxueWdzZ3k5MTRheDB5dGE1cDY4eXFwdTdzaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/FHBCwkY0UuBZm/200w.gif" width="200" align="left"/>
-<img src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyYWd0ZndrcmgzbmlrOWxueWdzZ3k5MTRheDB5dGE1cDY4eXFwdTdzaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/FHBCwkY0UuBZm/200w.gif" width="200" align="center"/>
 <img src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyYWd0ZndrcmgzbmlrOWxueWdzZ3k5MTRheDB5dGE1cDY4eXFwdTdzaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/FHBCwkY0UuBZm/200w.gif" width="200" align="right"/>
-<br clear="both"/>
+<img src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyYWd0ZndrcmgzbmlrOWxueWdzZ3k5MTRheDB5dGE1cDY4eXFwdTdzaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/FHBCwkY0UuBZm/200w.gif" width="200" align="right"/>
+
