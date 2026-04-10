@@ -43,6 +43,9 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/960px-Postgresql_elephant.svg.png?" alt="postgres" width="50"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1920px-Figma-logo.svg.png" alt="figma" width="40"/>
 <img src="https://www.svgrepo.com/show/354472/twilio-icon.svg" alt="twilio" width="50"/>
-  
 </p>
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyYWd0ZndrcmgzbmlrOWxueWdzZ3k5MTRheDB5dGE1cDY4eXFwdTdzaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/FHBCwkY0UuBZm/200w.gif" width="200"/>
 
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyYWd0ZndrcmgzbmlrOWxueWdzZ3k5MTRheDB5dGE1cDY4eXFwdTdzaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/FHBCwkY0UuBZm/200w.gif" width="200"/>
+</div>
