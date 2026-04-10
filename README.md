@@ -1,16 +1,25 @@
-## Hi there 👋
-
-<!--
-**MiguelQrz/MiguelQrz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```yaml
+{
+  "profile": {
+    "name": "Miguel",
+    "location": "Belo Horizonte, MG",
+  },
+  "education": [
+    "Self-Taught advanced english",
+    "Self-Taught Python & Dart",
+    "Studying Bachelor of Computer Science (5/8)"
+],
+  "skills": [
+    "C#",
+    "Python",
+    "Dart",
+  ],
+  "tools": [
+    "Git",
+    "Cloudflare",
+    "Firebase",
+    "AWS",
+    "VS Code"
+  ],
+}
+```
