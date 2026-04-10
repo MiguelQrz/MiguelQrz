@@ -1,4 +1,4 @@
-👾 A Little Bit About Me and My Interests
+<h2>👾 A Little Bit About Me and My Interests</h2>
 ```yaml
 {
   "profile": {
