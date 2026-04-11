@@ -25,8 +25,8 @@
   ],
 }
 ```
-![Top Languages](./profile/top-langs.svg)
 ![Snake animation](https://github.com/MiguelQrz/MiguelQrz/blob/output/github-contribution-grid-snake.svg)
+![Top Languages](./profile/top-langs.svg)
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
