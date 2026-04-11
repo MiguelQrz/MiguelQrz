@@ -26,7 +26,7 @@
 }
 ```
 ![Snake animation](https://github.com/MiguelQrz/MiguelQrz/blob/output/github-contribution-grid-snake.svg)
-<br>
+<h2></h2>
 ![Top Languages](./profile/top-langs.svg)
 <br>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
